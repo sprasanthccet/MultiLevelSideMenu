@@ -1,4 +1,4 @@
-"# MultiLevelSideMenu" 
+## MultiLevelSideMenu
 
 Ionic 2 demo of a two-level side menu. 
 
